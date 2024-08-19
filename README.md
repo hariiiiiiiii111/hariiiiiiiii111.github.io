@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>
+            firstweb      
+        </title>
+    </head>
+    <body text="black"   background="WhatsApp Image 2024-08-10 at 19.05.50_82a9c8f8.jpg" >
+        <center><h1>HELLO KUNDAN</h1>
+        <hr/>
+        <font size="5">
+            <marquee direction="right" > call me  </marquee>  
+           
+            
+            
+            
+        </font>
+        <font size="4">  <a href="https://www.instagram.com/dev.an___?igsh=dDM4eXU3M25sYnRj">click here  </a></font>
+       
+        <img src="WhatsApp Image 2024-08-19 at 21.19.07_ab0d742f.jpg" width="200" height="300"/>
+
+       <font size="4"><a href="https://www.instagram.com/_.vigneshmj._?igsh=MTRpbGk0eGNiZzdsdg==">click here  </a> </font> 
+       
+        <img src="WhatsApp Image 2024-08-19 at 21.23.57_5862a27b.jpg" width="200" height="300" />
+
+
+
+        </center>
+        
+
+        
+
+
+        
+    </body>
+</html>
